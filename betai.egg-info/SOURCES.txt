@@ -1,0 +1,9 @@
+setup.py
+betai/__init__.py
+betai/allocator.py
+betai/kelly.py
+betai/models.py
+betai.egg-info/PKG-INFO
+betai.egg-info/SOURCES.txt
+betai.egg-info/dependency_links.txt
+betai.egg-info/top_level.txt
